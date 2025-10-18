@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\bin\Debug\RFIDAttendancesSystem(Morte).exe.config
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\bin\Debug\RFIDAttendancesSystem(Morte).exe
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\bin\Debug\RFIDAttendancesSystem(Morte).pdb
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem(Morte).csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem_Morte_.dashboard.AddUser.resources
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem_Morte_.Form1.resources
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem_Morte_.Properties.Resources.resources
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem(Morte).csproj.GenerateResource.cache
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem(Morte).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem(Morte).exe
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem(Morte).pdb
+C:\Users\USER\source\repos\RFIDAttendancesSystem(Morte)\RFIDAttendancesSystem(Morte)\obj\Debug\RFIDAttendancesSystem(Morte).exe.config
